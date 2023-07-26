@@ -1,0 +1,35 @@
+body{
+    
+    display: flex;
+    margin-left:10px;
+    align-items: center;
+    border: 10px;
+    border-color: aqua;
+}
+
+#demo{
+    color:green;
+    font-size: 20px;
+}
+
+#demo2{
+    color:red;
+    font-size: 20px;
+}
+
+#demo3{
+    color:blueviolet;
+    font-size: 20px;
+}
+
+img{
+    width: 620px;
+}
+
+#input{
+    border-radius: 50px;
+}
+
+.btn{
+    border-radius: 50px;
+}
